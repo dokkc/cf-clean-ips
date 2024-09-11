@@ -20,27 +20,27 @@ IPv4:
   - 104.31.16.65       MCI      ddns.net    1725060522
   - 104.16.219.230     MCI      hamedgeek.top    1723893084
   - 104.17.42.10       MCI      hamedgeek.top    1723893084
-  - 162.159.1.94       MCI      hamedgeek.top    1723893084
-  - 104.17.88.212      MCI      hamedgeek.top    1723893084
   - 104.22.75.105      MCI      hamedgeek.top    1723893084
+  - 104.17.88.212      MCI      hamedgeek.top    1723893084
+  - 162.159.1.94       MCI      hamedgeek.top    1723893084
   - 172.66.213.38      MCI      ircf.space    1706906149
   - 103.224.182.242    MKH      jangal.icu    1725866795
   - 103.224.212.213    MKH      eqjgkx.xyz    1725786817
   - 104.16.4.103       MKH      ircf.space    1714924171
-  - 104.21.19.124      MTN      goleshahr78.eu.org    1726046109
   - 172.67.186.42      MTN      goleshahr78.eu.org    1726046109
+  - 104.21.19.124      MTN      goleshahr78.eu.org    1726046109
   - 103.224.182.242    MTN      jangal.icu    1725866795
   - 103.224.212.213    MTN      eqjgkx.xyz    1725786817
   - 203.32.121.53      MTN      ircf.space    1725392980
-  - 104.20.224.95      MTN      hamedgeek.top    1725297129
+  - 104.22.13.192      MTN      hamedgeek.top    1725297129
+  - 104.19.54.50       MTN      hamedgeek.top    1725297129
   - 172.65.13.222      MTN      hamedgeek.top    1725297129
-  - 104.27.62.243      MTN      hamedgeek.top    1725297129
+  - 104.19.255.51      MTN      hamedgeek.top    1725297129
   - 172.65.130.220     MTN      hamedgeek.top    1725297129
+  - 104.20.224.95      MTN      hamedgeek.top    1725297129
   - 172.65.103.23      MTN      hamedgeek.top    1725297129
   - 172.65.223.246     MTN      hamedgeek.top    1725297129
-  - 104.19.255.51      MTN      hamedgeek.top    1725297129
-  - 104.19.54.50       MTN      hamedgeek.top    1725297129
-  - 104.22.13.192      MTN      hamedgeek.top    1725297129
+  - 104.27.62.243      MTN      hamedgeek.top    1725297129
   - 104.24.185.137     MTN      hamedgeek.top    1725297129
   - 103.224.212.213    PRS      eqjgkx.xyz    1725786817
   - 104.16.6.65        PRS      ircf.space    1706988890
